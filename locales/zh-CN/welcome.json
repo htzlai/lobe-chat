@@ -1,8 +1,8 @@
 {
   "guide.agents.replaceBtn": "换一批",
   "guide.agents.title": "新增助理推荐：",
-  "guide.defaultMessage": "我是你的智能助理 {{appName}}。从任何想法开始都可以。<br />如需更专业的助理，可以点击 <plus /> 创建",
-  "guide.defaultMessageWithoutCreate": "这里是 {{appName}}。从一句话开始，把目标说清楚就行",
+  "guide.defaultMessage": "我是你的 {{appName}} 智能助理，专注于企业出海落地与跨境业务。分享你的海外扩张目标，我将帮助你制定可执行的路线图。<br />如需更专业的助理，可以点击 <plus /> 创建",
+  "guide.defaultMessageWithoutCreate": "欢迎使用 {{appName}}。分享你的全球化扩张目标，我将帮助你将其转化为可执行的行动计划",
   "guide.groupActivities.analysis.codeReview.description": "对代码变更和实现进行技术讨论和同行评审",
   "guide.groupActivities.analysis.codeReview.emoji": "💻",
   "guide.groupActivities.analysis.codeReview.prompt": "让我们一起审查一些代码。你能帮助我们分析这些代码并识别改进的地方吗？",
